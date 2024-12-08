@@ -1,0 +1,9 @@
+.container {
+width: 50%;
+margin:0 auto;
+}
+
+svg#flower-frame {
+height: 90vh;
+width: 100%;
+}
